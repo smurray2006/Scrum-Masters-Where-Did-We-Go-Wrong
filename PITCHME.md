@@ -1,9 +1,24 @@
-Slide 1
+# Scrum Masters...where did we go wrong?
 ---
-Slide 2
+# The Bottom Line Up Front
 ---
-Slide 3
+# A Brief History of Time...in Software Development
 ---
-Slide 4
+# A quick overview of Agile values and a _few_ principles
 ---
-Slide 5
+# A quick overview of SCRUM
+---
+# The _original_ Scrum Master
+---
+# Time to Scale Up
+---
+# Here come the Agile Coaches
+---
+# There go the _Scrum Masters_
+## (and here come the _new_ Scrum Masters)
+---
+# The problem in a nutshell
+---
+# The solution
+
+
