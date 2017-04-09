@@ -10,10 +10,12 @@
 ---
 # The _original_ Scrum Master
 ---
+# Time to Scale Up
+---
 # Here come the Agile Coaches
 ---
-# There goes the Scrum Master
-## (here come the _new_ Scrum Masters)
+# There go the _Scrum Masters_
+## (and here come the _new_ Scrum Masters)
 ---
 # The problem in a nutshell
 ---
