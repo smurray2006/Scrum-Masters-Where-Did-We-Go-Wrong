@@ -51,6 +51,12 @@ A presentation by Shane Murray and Shawn Faunce
 +++
 {What can we do about it, multiple slides I think}
 ---
+# About the Authors
++++
+# Shane Murray
++++
+# Shawn Faunce
+---
 # The End
 
 
