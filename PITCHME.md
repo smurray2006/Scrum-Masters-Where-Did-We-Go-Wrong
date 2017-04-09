@@ -1,10 +1,27 @@
 _Slide 1:Title_
-Scrum Masters...where did we go wrong?
+
+# Scrum Masters...where did we go wrong?
 ---
-Slide 2
+_Slide 2:_
+
+# The Bottom Line Up Front
 ---
-Slide 3
+_Slide 3:_
+
+# A Brief History of Time...in Software Development
 ---
-Slide 4
+_Slide 4:_
+
+# The _original_ Scrum Master
 ---
-Slide 5
+_Slide 5:_
+
+# In comes the Agile Coach
+---
+_Slide 6:_
+
+# There goes the Scrum Master
+---
+_Slide 7:_
+
+
