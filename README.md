@@ -2,7 +2,7 @@
 ## A presentation using PITCHME.md
 ### click here to see the current repository in GitPitch:
 #### https://gitpitch.com/smurray2006/Scrum-Masters-Where-Did-We-Go-Wrong/master
-#### https://gitpitch.com/smurray2006/Scrum-Masters-Where-Did-We-Go-Wrong/dev
+#### https://gitpitch.com/smurray2006/Scrum-Masters-Where-Did-We-Go-Wrong/Dev
 ---
 ### Simply edit PITCHME.md using Markdown
 ---
